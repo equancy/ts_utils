@@ -6,7 +6,7 @@ They perform regular tasks in a multivariate time series project and allow the D
 
 ## id_time_coverage(...)
 
-![Alt Text](https://github.com/equancy/ts_utils/images/1.gif)
+<img src="https://github.com/equancy/ts_utils/blob/main/images/intro.gif" width="40" />
 
 ## id_importance(...)
 
